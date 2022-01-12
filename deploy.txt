@@ -1,2 +1,3 @@
+i am doing merge confligs in master
 i am from master branch
 deployement information
